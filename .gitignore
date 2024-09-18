@@ -1,0 +1,12 @@
+./zerodha-exchange/engine/node_modules
+./zerodha-exchange/engine/dist
+./zerodha-exchange/engine/snapshot.json
+./zerodha-exchange/engine/coverage
+./zerodha-exchange/db/node_modules
+./zerodha-exchange/db/dist
+./zerodha-exchange/ws/node_modules
+./zerodha-exchange/ws/dist
+./zerodha-exchange/api/node_modules
+./zerodha-exchange/api/dist
+./zerodha-exchange/mm/node_modules
+./zerodha-exchange/mm/dist
