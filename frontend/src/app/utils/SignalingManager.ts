@@ -1,6 +1,6 @@
 import { Ticker } from "./types";
 
-export const BASE_URL = "ws://localhost:3001"
+const BASE_URL = process.env.WS_BASE_URL || "";
 
 export class SignalingManager {
     private ws: WebSocket;
